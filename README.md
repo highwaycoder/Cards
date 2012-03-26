@@ -21,8 +21,8 @@ Damn you Eclipse for making me rely upon IDE magic for my understanding of Java!
 ### License
 This source is licensed for public study, use, modification and reproduction of any kind
 provided:
-1. The original source (github:cjbrowne/Cards) is linked to.
-2. The original author is credited (Chris Browne <yoda2031@gmail.com>)
-3. This license disclaimer is preserved on the original code.
+  1. The original source (github:cjbrowne/Cards) is linked to.
+  2. The original author is credited (Chris Browne <yoda2031@gmail.com>)
+  3. This license disclaimer is preserved on the original code.
 Modifications may be licensed under a separate license.
 This constitutes a shortened, simplified version of the BSD license.
